@@ -1,0 +1,15 @@
+# Dependency directories
+node_modules/
+
+# Production build
+dist/
+build/
+
+# Coverage & Logs
+coverage/
+*.log
+
+# Misc
+.DS_Store
+.env
+.env.local
